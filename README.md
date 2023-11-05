@@ -5,6 +5,7 @@ This repo will provide the code for reproducing the experiments in SparseCoder:
 
 ## Dependency
 -pip install torch
+
 -pip install transformers
 
 ## Data Download 
