@@ -14,18 +14,13 @@ SparseCoder employs a sliding window mechanism for self-attention to model short
 
 Our file-level code summary dataset is released at hugging face. You can download the FILE-CS dataset at [this](https://huggingface.co/datasets/huangyx353/FILE-CS)
 
-## Quick Tour 
+## Fine-Tuning
+Here we provide fine-tuning settings of SparseCoder for file-level code summarization, whose results are reported in the paper.
 
-git clone the repo first
 ```shell
-git clone https://github.com/DeepSoftwareAnalytics/SparseCoder.git
+
 ```
 
-After downloading the project, you can use SparseCoder to generate a file-level summary through the below request:
-```shell
-cd File-Leval-Summary/SparseCoder
-bash run.sh
-```
 
 # Reference
 
