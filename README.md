@@ -21,4 +21,11 @@ First, git clone the project
 git clone https://github.com/DeepSoftwareAnalytics/SparseCoder.git
 ```
 
-##
+# Reference
+
+If you use this code or SparseCoder, and if you use our FILE-CS dataset, please consider citing us.
+
+```shell
+
+```
+
