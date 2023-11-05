@@ -16,9 +16,15 @@ Our file-level code summary dataset is released at hugging face. You can downloa
 
 ## Quick Tour 
 
-First, git clone the project
+git clone the repo first
 ```shell
 git clone https://github.com/DeepSoftwareAnalytics/SparseCoder.git
+```
+
+After downloading the project, you can use SparseCoder to generate a file-level summary through the below request:
+```shell
+cd File-Leval-Summary/SparseCoder
+bash run.sh
 ```
 
 # Reference
