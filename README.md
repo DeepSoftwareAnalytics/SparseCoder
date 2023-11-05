@@ -16,8 +16,9 @@ Our file-level code summary dataset is released at hugging face. You can downloa
 
 ## Quick Tour 
 
+First, git clone the project
 ```shell
-git clone 
+git clone https://github.com/DeepSoftwareAnalytics/SparseCoder.git
 ```
 
 ##
