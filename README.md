@@ -1,6 +1,8 @@
 # SparseCoder
 
-This repo will provide the code for reproducing the experiments in SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization. SparseCoder employs a sliding window mechanism for self-attention to model short-term dependencies and leverages the structure of code to capture long-term dependencies among source code identifiers.
+This repo will provide the code for reproducing the experiments in SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization. 
+
+SparseCoder employs a sliding window mechanism for self-attention to model short-term dependencies and leverages the structure of code to capture long-term dependencies among source code identifiers.
 
 
 ## Dependency
@@ -8,6 +10,10 @@ This repo will provide the code for reproducing the experiments in SparseCoder:
 
 -pip install transformers
 
-## Data Download 
+## Quick Tour 
+
+```shell
+git clone 
+```
 
 ##
