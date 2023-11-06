@@ -65,7 +65,7 @@ python run.py \
 --num_train_epochs $epochs 2>&1| tee $output_dir/test.log
 ```
 
-If you want to reproduce the other models mentioned in the paper, simply run the run.sh file under the appropriate folder.
+If you want to reproduce the other models mentioned in the paper, simply run the run.sh file under the appropriate folder. 
 
 # Reference
 
